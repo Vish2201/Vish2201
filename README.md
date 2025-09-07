@@ -2,7 +2,7 @@
 🚀 **"Passionate about building AI-driven solutions that create real-world impact. With a relentless drive for innovation, I thrive on transforming data into intelligence, solving complex problems, and pushing the boundaries of AI. Excited for the next big challenge!"**
 
 🚀 **Data Scientist | AI Engineer | Agentic AI & LLM Specialist**  
-📊 **4+ years of experience** in **Data Science, Machine Learning, and AI-driven solutions**. Passionate about **Agentic AI, Generative AI, and Large Language Models (LLMs)**!  
+📊 **3+ years of experience** in **Data Science, Machine Learning, and AI-driven solutions**. Passionate about **Agentic AI, Generative AI, and Large Language Models (LLMs)**!  
 
 ![AI GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 
