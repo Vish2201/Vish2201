@@ -80,7 +80,7 @@
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vishwesh-w)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/vishwesh-w](https://www.linkedin.com/in/vishwesh-w-028495270/))
 
 💬 Always open to discussions on **AI, LLMs, and Agentic AI**. Let’s collaborate on building the future of intelligent systems! 🚀
 
