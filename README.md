@@ -1,7 +1,3 @@
-Here’s a polished and more **formal + attractive** update of your profile section, keeping it professional yet engaging (great for GitHub, portfolio, or LinkedIn):
-
----
-
 # 👋 Hi, I'm Vishwesh!
 
 🚀 **"Passionate about building AI solutions that make a real impact. I thrive on transforming data into intelligence, solving complex problems, and pushing the boundaries of Machine Learning and Generative AI."**
