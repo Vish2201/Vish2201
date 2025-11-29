@@ -7,7 +7,7 @@
 ## 🌟 Who I Am
 
 💡 **Data Scientist | AI Engineer | Agentic AI & LLM Specialist**
-📊 **3.5+ years of experience** in **Data Science, Machine Learning, and AI-driven automation**. Skilled in **Agentic AI, Generative AI, and Large Language Models (LLMs)** with a proven track record in healthcare, finance, and insurance domains.
+📊 **2.5+ years of experience** in **Data Science, Machine Learning, and AI-driven automation**. Skilled in **Agentic AI, Generative AI, and Large Language Models (LLMs)** with a proven track record in healthcare, finance, and insurance domains.
 
 ---
 
