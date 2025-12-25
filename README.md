@@ -47,7 +47,8 @@ I am an AI specialist with **2.5+ years of experience** building production-grad
 
 ### 📫 Connect with Me
 
-<a href="linkedin.com/in/vishwesh-w-028495270">
-  <img align="left" alt="Vishwesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vishwesh-w-028495270" target="_blank">
+  <img align="left" alt="Vishwesh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
+
