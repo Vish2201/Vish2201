@@ -6,7 +6,7 @@
 ---
 
 ### 🧐 About Me
-I am an AI specialist with **2.5+ years of experience** building production-grade AI systems. My focus has shifted from traditional predictive modeling to **Agentic AI and Large Language Models (LLMs)**, deploying intelligent automation in Healthcare and Finance.
+I am an AI specialist with **3.5+ years of experience** building production-grade AI systems. My focus has shifted from traditional predictive modeling to **Agentic AI and Large Language Models (LLMs)**, deploying intelligent automation in Healthcare and Finance.
 
 ---
 
