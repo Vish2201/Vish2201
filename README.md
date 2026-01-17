@@ -91,17 +91,25 @@ Data Scientist with 3.9 years of industry experience in Generative AI, LLMs, and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vish2201&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish2201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vish2201&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Vish2201&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=%230D1117&title_color=%2300D9FF&icon_color=%2300D9FF&text_color=FFFFFF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vish2201&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish2201&layout=compact&hide_border=true&bg_color=%230D1117&title_color=%2300D9FF&text_color=FFFFFF"/>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Vish2201&hide_border=true&background=%230D1117&stroke=%2300D9FF&ring=%2300D9FF&fire=%23FF6B6B&currStreakLabel=%2300D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"
+    alt="GitHub Streak" />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Vish2201&theme=react-dark&hide_border=true&bg_color=%230D1117&color=%2300D9FF&line=%2300D9FF&point=FFFFFF"
+    alt="Contribution Graph" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 ---
 
