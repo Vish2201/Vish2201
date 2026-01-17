@@ -68,11 +68,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vish2201&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="180em"
+ src="https://github-readme-stats.vercel.app/api?username=Vish2201&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish2201&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img height="180em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish2201&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
-<img src="https://streak-stats.demolab.com?user=Vish2201&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF" />
+<img
+ src="https://streak-stats.demolab.com?user=Vish2201&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B"/>
 
 </div>
 
@@ -82,7 +85,11 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Vish2201/Vish2201/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vish2201/Vish2201/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vish2201/Vish2201/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vish2201/Vish2201/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
