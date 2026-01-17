@@ -111,17 +111,6 @@ Data Scientist with 3.9 years of industry experience in Generative AI, LLMs, and
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vish2201&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ## 💭 Random Dev Quote
 
