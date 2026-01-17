@@ -68,14 +68,11 @@
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Vish2201&show_icons=true&count_private=true&hide_border=true&bg_color=%230D1117&title_color=%2300D9FF&icon_color=%2300D9FF&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vish2201&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish2201&layout=compact&hide_border=true&bg_color=%230D1117&title_color=%2300D9FF&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vish2201&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Vish2201&hide_border=true&background=%230D1117&ring=%2300D9FF&fire=%23FF6B6B&currStreakNum=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=Vish2201&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF" />
 
 </div>
 
