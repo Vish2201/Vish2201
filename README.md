@@ -28,13 +28,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Name: Vishwesh Wader
-Located_in: Ahmedabad, Gujarat, India
-Current_role: Data Scientist
-Company: Engineering AI for US Healthcare
-Experience: 3.9 years
-Focus: GenAI | LLMs | NLP | RAG Systems | Machine Learning
-Motto: "Prompt engineering is an art form!"
+Data Scientist with 3.9 years of industry experience in Generative AI, LLMs, and NLP, currently working on production-grade AI solutions for US healthcare clients. Strong hands-on experience in Python, LangChain, FastAPI, RAG, vector databases, and SQL. Hands-on exp in end-to-end GenAI solutions including LLMs, RAG pipelines, prompt tuning, API based deployment and production support.
 
 ### 🎯 What I Do
 
